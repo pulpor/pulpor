@@ -5,7 +5,7 @@
 - 🌱 estudando análise de dados 
 - 📫 contate-me no e-mail: 'pulppor@hotmail.com' or 'pulppor@gmail.com'
 - 😄 pronouns: ele/dele
-- 🎃 fun fact: laranja é minha cor preferida!
+- 🍊 fun fact: laranja é minha cor preferida!
 
 <br>
 <div align="center">
