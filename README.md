@@ -1,5 +1,5 @@
-### olá mundo! eu sou leonardo pulpor. 👋
-
+## olá mundo! eu sou leonardo pulpor. 👋
+### acesse meu <a href="https://pulpor.github.io/pulpor.dev">currículo</a> 👨‍🎓<br><br> 
 
 - 🔭 hoje eu trabalho com front-end
 - 🌱 estudando análise de dados 
