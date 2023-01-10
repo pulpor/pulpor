@@ -21,7 +21,7 @@
   <img align="center" alt="Rafa-Js" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Python" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="animacao.svg">
+  <img align="right" alt="asset-pic" height="150" style="border-radius:50px;" src="animacao.svg">
 </div>
 
 ##
@@ -35,5 +35,7 @@
    <a href="https://t.me/pulppor" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
  
 <!-- ![Snake animation](https://github.com/pulpor/pulpor/blob/output/github-contribution-grid-snake.svg) cobrinha -->
+  
+  <img width="0" src="https://visitor-badge.glitch.me/badge?page_id=pulpor.tondrejk" />
  
 </div>
