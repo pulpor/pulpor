@@ -1,4 +1,7 @@
-## olá mundo! eu sou leonardo pulpor. 👋
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58a6f0&size=34&center=true&vCenter=true&width=1000&lines=olá+mundo!+eu+sou+leonardo+pulpor.+👋;procuro+uma+vaga+de+front-end+jr.;prometo+não+decepcionar!+rs.+:%29)](https://git.io/typing-svg)
+<br><br>
 ### acesse meu <a href="https://pulpor.github.io/pulpor.dev">currículo</a> 👨‍🎓<br><br> 
 
 - 🔭 hoje eu trabalho com front-end
@@ -8,11 +11,12 @@
 - 🍊 fun fact: <b><font color="#DE6004">laranja</font></b> é minha cor preferida!
 
 <br>
+<!-- api caiu 
 <div align="center">
   <a href="https://github.com/pulpor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pulpor&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulpor&layout=compact&langs_count=7&theme=codeSTACKr"/>
-</div>
+</div> -->
 
 <div style="display: inline_block"><br>
 
